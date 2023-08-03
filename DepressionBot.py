@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 
-bot = telebot.TeleBot("6521779402:AAH1WIw3EHsiHjCmKFNHdr-rbkn8HKG7bWI")
+bot = telebot.TeleBot("TOKEN")
 result = 0
 i = 0
 
